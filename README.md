@@ -1,13 +1,4 @@
-## Hi there 👋
-
-I am a front-end developer and creative coder focused on crafting interactive and visually engaging interfaces. I build smooth animations, dynamic user experiences, apps, and interfaces that feel alive. My work sits at the intersection of design, web development, and experimental coding.
-
-## About Me
-
-I enjoy turning ideas into experiences that are both functional and visually striking. I approach coding as a medium for creativity, experimenting with motion, interactivity, and game-like elements. My projects combine modern front-end frameworks with creative coding tools to explore new ways users interact with digital products.
-
-## Skills
-# Ayòmídé
+# Hi there, I am Stephanie.
 
 I am a front-end developer and creative coder focused on crafting interactive and visually engaging interfaces. I build smooth animations, dynamic user experiences, apps, and interfaces that feel alive. My work sits at the intersection of design, web development, and experimental coding.
 
@@ -22,6 +13,7 @@ I enjoy turning ideas into experiences that are both functional and visually str
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 - Front-end development with React, Next.js, JavaScript, Typescript. 
 - CSS, SCSS, and Tailwind for modern and responsive layouts  
 - Interactive animations using CSS, GSAP, Three.js, and Canvas API  
