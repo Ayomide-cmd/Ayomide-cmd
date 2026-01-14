@@ -8,12 +8,11 @@ I enjoy turning ideas into experiences that are both functional and visually str
 
 ## Skills
 
-- Front-end development with React, Next.js, and vanilla JavaScript  
+- Front-end development with React, Next.js, Typescript, JavaScript  
 - CSS, SCSS, and Tailwind for modern and responsive layouts  
-- Interactive animations using CSS, GSAP, Three.js, and Canvas API  
-- Building apps, from prototypes to full-featured web applications  
-- Creative coding and experimental interfaces  
-- Game development fundamentals and playable web experiences
+- Interactive animations using CSS, GSAP, Framer Animations, and Three.js.
+- Building apps, from prototypes to full-featured web applications   
+- Game development fundamentals and playable web | application experiences
 
 ## Projects
 
