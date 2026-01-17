@@ -4,7 +4,7 @@ I am a front-end developer and creative coder focused on crafting interactive an
 
 ## About Me
 
-I enjoy turning ideas into experiences that are both functional and visually striking. I approach coding as a medium for creativity, experimenting with motion, interactivity, and game-like elements. My projects combine modern front-end frameworks with creative coding tools to explore new ways users interact with digital products.
+I transform ideas into interactive experiences, blending motion, interactivity, and game-like elements. By combining modern front-end frameworks with creative coding tools, I explore innovative ways for users to engage with digital products.
 
 ## Skills
 
