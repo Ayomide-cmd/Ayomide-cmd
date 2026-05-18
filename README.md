@@ -1,4 +1,4 @@
-# Hi there, I am Stephanie.
+# Hello World, I am Stephanie.
 
 I am a creative developer focused on crafting interactive and visually engaging interfaces. I build smooth animations, dynamic user experiences, and interfaces that feel alive. My work sits at the intersection of design, web development, and experimental coding.
 
