@@ -40,4 +40,3 @@ I am expanding my work in app development and game development while continuing 
 ## Contact
 
 Email: adetomiwasteph@gmail.com  
-Portfolio: https://stephanie-adetomiwa.vercel.app
